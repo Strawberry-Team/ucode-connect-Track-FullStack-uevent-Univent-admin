@@ -224,6 +224,7 @@ Before starting, ensure the required technologies are installed.
 7. Access the admin panel at [http://localhost:8000/admin](http://localhost:8000/admin).
 
 
+
 # 👤 Admin Credentials
 
 Default admin credentials for testing:
